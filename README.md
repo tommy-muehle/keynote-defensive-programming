@@ -1,5 +1,5 @@
 # keynote-defense-programming
-Code snippets for my keynote "Defense programming (with PHP)".
+Code snippets for my keynote "Defensive programming (with PHP)".
 
 ## Requirements
 
